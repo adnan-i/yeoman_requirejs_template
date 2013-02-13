@@ -1,5 +1,6 @@
 yeoman_requirejs_template
 =========================
+FORKED: To make it work with jasmine
 
 Yeoman.js Require.js Template
 
